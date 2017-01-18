@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9b701af2f24214c768b0c7ce85bf1e9f
+timeCreated: 1481813217
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ProjectilePrefab: {fileID: 1000010145026388, guid: 58c2b0aeca9089f48870457f3b6b1e3d,
+      type: 2}
+  - destructionClip: {fileID: 8300000, guid: d743877313b3e4b7db425614ef9872a2, type: 3}
+  - destructionSoundSource: {instanceID: 0}
+  - audioOutput: {fileID: 243000010129845232, guid: ae1dee54eaa8d492389ccd7344c368a8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
